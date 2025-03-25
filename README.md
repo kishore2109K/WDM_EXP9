@@ -1,5 +1,6 @@
+## NAME : KISHORE K
+## REG NO : 212223040101
 ### EX9 Preprocessing on Twitter Data using Rapidminer
-### DATE: 
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -24,7 +25,13 @@ operators for preprocessing:
 3) ***Stemming:*** Apply stemming to reduce words to their root forms. You can use operators like "Stem (Porter)"
 for this purpose.
 
-
 ### Output:
+![1](https://github.com/user-attachments/assets/c2c9186a-85bb-4517-b058-8c519084f67c)
+
+![2](https://github.com/user-attachments/assets/86abf824-0088-4b99-9260-8ca80349e298)
+
+![3](https://github.com/user-attachments/assets/f7122879-6c2a-4c93-91b8-8852cb5209ec)
+![4](https://github.com/user-attachments/assets/7a578be8-9a33-4004-8c7d-df942f23b21e)
 
 ### Result:
+Thus, the preprocessing technique on Twitter Data using Rapidminer is implemented successfully.
